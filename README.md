@@ -9,4 +9,4 @@
 
 ## Smart Home Makers
 * Node Red vs Home Assistant Ep1 (Good Morning Greeting) [Link](https://www.youtube.com/watch?v=IU90ffEY9IY).
-* Izklop vseh luči z timestemp (enim stikalom)  [Link](https://www.youtube.com/watch?v=IU90ffEY9IY).
+* Izklop vseh luči z timestemp (enim stikalom) ter v HA Developer Tools-u nastavljanje Templete editorja -ustvarjanje kode za skupino luči! [Link](https://www.youtube.com/watch?v=IU90ffEY9IY).
